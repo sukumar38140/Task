@@ -1,0 +1,71 @@
+.orange{
+    margin: 20px 0px 0px 300px;
+    width: 400px;
+    height: 100px;
+    border-color: black;
+    background-color: orange;
+
+}
+.white{
+    margin-left: 300px;
+    width: 400px;
+    height: 100px;
+    border-color: black;
+    background-color:azure;
+    position:static;
+}
+.blue{
+    left: 150px;
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    background-color: blue;
+    position:relative;
+    border-radius: 90px;
+}
+.green{
+    margin-left: 300px;
+    width: 400px;
+    height: 100px;
+    border-color: black;
+    background-color: green;
+}
+
+
+.orange, .white, .green{
+    border:0px 0px 0px 20px solid brown;
+}
+.orange, .white,.green,.blue{
+border: 1px solid black;
+}
+.stick{
+    width: 10px;
+    height: 200px;
+    background-color: brown;
+    margin-left: 300px;
+    position: relative;
+
+}
+.step1{
+    width: 200px;
+    height:50px;
+    background-color: gray;
+    margin-left: 200px;
+    border:2px solid black;
+
+}
+.step2{
+    width: 300px;
+    height:50px;
+    background-color: gray;
+    margin-left: 150px;
+    border:2px solid black;
+}
+.step3{
+    width: 400px;
+    height:50px;
+    background-color: gray;
+    margin-left: 100px;
+    border:2px solid black;
+}
+
