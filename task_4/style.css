@@ -1,0 +1,258 @@
+.layout{
+    border: 5px ;
+    margin: 10px solid black;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: flex-start;
+}
+
+.card1{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: yellow;
+}
+
+.card2{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: orange;
+}
+.card3{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: chocolate;
+}
+
+.card4{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: rgb(19, 19, 28);
+    color: white;
+}
+
+.card5{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.card6{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: gold;
+}
+
+.card7{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: rgb(72, 188, 233);
+}
+
+.card8{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color:white;
+}
+
+.card9{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: red;
+}
+
+.card10{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 20%;
+    height: 60%;
+    border-radius: 10px;
+    background-color:gold;
+}
+
+.card1 img{
+    width: 100%;
+    height: 30%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card2 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card3 img{
+    width: 100%;
+    height: 110%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card4 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card5 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card6 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card7 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card8 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card9 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.card10 img{
+    width: 100%;
+    height: 70%;
+    box-sizing: border-box;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+.card1 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card2 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card3 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card4 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card5 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card6 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card7 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card8 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card9 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+
+.card10 button{
+    margin-bottom: 10px;
+    background-color:blue;
+    color: white;
+    text-shadow: 10px;
+}
+    s
