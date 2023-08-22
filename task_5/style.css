@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+     /* display: grid; */
+    /* justify-content: center;
+    place-items: center; */
+    /* position: relative; */
+width: 100vw;
+transform: translate(500px, 230px);
+    
+}
+.cube{
+    height: 250px;
+    width: 250px;
+    background-color: blueviolet;
+    /* position: absolute;
+    top: 230px;
+    left: 500px; */
+    
+    
+
+   
+}

@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.cube{
+    width: 100px;
+    height:100px;
+    background-color: white;
+    top: 200px;
+    left: 200px;  
+}
